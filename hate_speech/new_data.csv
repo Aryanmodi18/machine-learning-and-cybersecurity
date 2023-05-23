@@ -1,0 +1,224 @@
+,hate_speech,words
+0,1,Ransomware
+1,1,Botnet
+2,1,Dark web
+3,1,Illegal hacking
+4,1,Cyber espionage
+5,1,Cyber terrorism
+6,1,Cyber crime
+7,1,Phishing
+8,1,Identity theft
+9,1,Carding
+10,1,Fraud
+11,1,Money laundering
+12,1,Drug trafficking
+13,1,Human trafficking
+14,1,Child exploitation
+15,1,Piracy
+16,1,Cyberstalking
+17,1,Cyberbullying
+18,1,Cyber harassment
+19,1,Social engineering
+20,1,Malware
+21,1,DDoS attack
+22,1,Advanced persistent threat (APT)
+23,1,Exploit
+24,1,SQL injection
+25,1,Man-in-the-middle attack
+26,1,Password cracking
+27,1,Cyber extortion
+28,1,Cyber smuggling
+29,1,Cyber squatting
+30,1,Cyber forgery
+31,1,Cyber stalking
+32,1,Cyber trespass
+33,1,Cyber squatting
+34,1,Cyber defamation
+35,1,Cyber libel
+36,1,Cyber defamation
+37,1,Cyber harassment
+38,1,Cyber bullying
+39,1,Cyber terrorism
+40,1,Cyber vandalism
+41,1,Cyber espionage
+42,1,Cyber warfare
+43,1,Cyber fraud
+44,1,Cyber espionage
+45,1,Cyber theft
+46,1,Cyber fraud
+47,1,Cyber intrusion
+48,1,Cyber forgery
+49,1,Cyber blackmail
+50,1,Cyber fraudsters
+51,1,Cyber espionage agents
+52,1,Cybercrime syndicate
+53,1,Cyber criminal organization
+54,1,Cyber terrorist organization
+55,1,Cyber black market
+56,1,Illegal online marketplaces
+57,1,Cyber arms dealers
+58,1,Cyber espionage tools
+59,1,Cyber exploitation tools
+60,1,Cybercrime legislation
+61,1,Cybercrime investigations
+62,1,Cybercrime prosecution
+63,1,Cybercrime penalties
+64,1,Cybercrime prevention
+65,1,Cybercrime reporting
+66,1,Cybercrime statistics
+67,1,Cybercrime trends
+68,1,Cybercrime victims
+69,1,Cybercrime mitigation
+70,1,Cybersecurity regulations
+71,1,Cybersecurity compliance
+72,1,Cybersecurity standards
+73,1,Cybersecurity audits
+74,1,Cybersecurity best practices
+75,1,Cybersecurity frameworks
+76,1,Cybersecurity controls
+77,1,Cybersecurity policies
+78,1,Cybersecurity guidelines
+79,1,Cybersecurity procedures
+80,1,Cybercrime laws
+81,1,Darknet marketplaces
+82,1,Bitcoin laundering
+83,1,Botnet takedowns
+84,1,Hacker forums
+85,1,Social engineering attacks
+86,1,Online identity theft
+87,1,Financial fraud
+88,1,Card skimming
+89,1,Phishing scams
+90,1,Ransomware attacks
+91,1,Cryptojacking
+92,1,Keyloggers
+93,1,Remote access Trojans (RATs)
+94,1,Spyware
+95,1,Adware
+96,1,Fileless malware
+97,1,Exploit kits
+98,1,Backdoors
+99,1,Zero-day vulnerabilities
+100,1,Data breaches
+101,1,Password cracking
+102,1,Brute-force attacks
+103,1,Denial of Service (DoS) attacks
+104,1,Distributed Denial of Service (DDoS) attacks
+105,1,Malvertising
+106,1,Pharming
+107,1,DNS spoofing
+108,1,SQL injection attacks
+109,1,Cross-site scripting (XSS) attacks
+110,1,Cyberbullying
+111,1,Sextortion
+112,1,Child exploitation
+113,1,Online grooming
+114,1,Revenge porn
+115,1,Child pornography
+116,1,Human trafficking
+117,1,Terrorist propaganda
+118,1,Online hate speech
+119,1,Extremist content
+120,1,Money laundering
+121,1,Tax evasion
+122,1,Fraudulent schemes
+123,1,Insider trading
+124,1,Embezzlement
+125,1,Ponzi schemes
+126,1,Bribery
+127,1,Corruption
+128,1,Smuggling
+129,1,Arms trafficking
+130,1,Counterfeiting
+131,1,Intellectual property theft
+132,1,Copyright infringement
+133,1,Trademark infringement
+134,1,Patent infringement
+135,1,Trade secret theft
+136,1,Software piracy
+137,1,Movie piracy
+138,1,Music piracy
+139,1,eBook piracy
+140,1,Identity theft
+141,1,Phishing scams
+142,1,Social engineering attacks
+143,1,Advanced fee scams
+144,1,Lottery scams
+145,1,Pyramid schemes
+146,1,Investment scams
+147,1,Credit card fraud
+148,1,Online banking fraud
+149,1,ATM skimming
+150,1,Hacking tools
+151,1,Exploits
+152,1,Botnets
+153,1,Rootkits
+154,1,Trojan horses
+155,1,Backdoors
+156,1,Keyloggers
+157,1,Ransomware
+158,1,Cryptojacking
+159,1,Malware
+160,1,Dark web
+161,1,Silk Road
+162,1,Tor
+163,1,Bitcoin
+164,1,Money mules
+165,1,Carding
+166,1,Phreaking
+167,1,Cyberstalking
+168,1,Cyberwarfare
+169,1,Cyber espionage
+170,1,Child pornography
+171,1,Human trafficking
+172,1,Drug trafficking
+173,1,Arms dealing
+174,1,Organized crime
+175,1,Extortion
+176,1,Terrorism
+177,1,Bomb-making instructions
+178,1,Anarchist cookbook
+179,1,Neo-Nazi groups
+180,1,Anonymous
+181,1,hacktivist
+182,1,hacktivism
+183,1,Pirated software
+184,1,Warez
+185,1,Cracks
+186,1,Serial keys
+187,1,License keys
+188,1,Activation keys
+189,1,Key generators
+190,1,Password crackers
+191,1,Brute force attacks
+192,1,Dictionary attacks
+193,1,DDoS attacks
+194,1,Botnets for hire
+195,1,Proxy services
+196,1,VPN services
+197,1,Proxy servers
+198,1,IP spoofing
+199,1,Wireless cracking
+200,1,War dialing
+201,1,Physical security bypass
+202,1,Dumpster diving
+203,1,Social engineering
+204,1,Spear phishing
+205,1,Whaling
+206,1,CEO fraud
+207,1,Business email compromise
+208,1,Money laundering
+209,1,Online gambling
+210,1,Online betting
+211,1,Counterfeit currency
+212,1,Counterfeit documents
+213,1,Carding
+214,1,Credit card fraud
+215,1,Identity theft
+216,1,SIM swapping
+217,1,Malware distribution
+218,1,Rootkits
+219,1,Trojan horses
+220,1,Backdoors
+221,1,Remote access trojans (RATs)
+222,1,Spyware
