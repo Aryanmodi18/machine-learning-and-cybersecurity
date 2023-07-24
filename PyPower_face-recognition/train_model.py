@@ -1,7 +1,6 @@
 # USAGE
-# python train_model.py --embeddings output/embeddings.pickle \
-#	--recognizer output/recognizer.pickle --le output/le.pickle
-#python train_model.py --embeddings output/PyPower_embed.pickle --recognizer output/PyPower_recognizer.pickle --le output/PyPower_label.pickle
+python train_model.py --embeddings output/embeddings.pickle \--recognizer output/recognizer.pickle --le output/le.pickle
+python train_model.py --embeddings output/PyPower_embed.pickle --recognizer output/PyPower_recognizer.pickle --le output/PyPower_label.pickle
 # import the necessary packages
 from sklearn.preprocessing import LabelEncoder
 from sklearn.svm import SVC
